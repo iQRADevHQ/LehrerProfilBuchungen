@@ -1,0 +1,10 @@
+LEHRERPROFIBUCHUNG/
+├── frontend/
+│   ├── images/
+│   ├── styles/
+│   ├── js/
+│   └── index.html
+├── api/
+│   ├── config/
+│   └── routes/
+└── README.md
